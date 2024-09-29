@@ -1,3 +1,5 @@
-# weather
+# Weather App
+Weather app with flutter
 
-A new Flutter project.
+# App tour
+![](https://github.com/Ziad-Hegazy/Weather-App/App_tour.gif)
