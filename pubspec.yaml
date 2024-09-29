@@ -1,0 +1,32 @@
+name: weather
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0-255.0.dev
+
+dependencies:
+  dio: ^5.7.0
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/close.png
+    - assets/images/eye.png
+    - assets/images/lock.png
+
+  fonts:
+    - family: SegoeUI
+      fonts:
+        - asset: assets/fonts/SegoeUI-VF.ttf
