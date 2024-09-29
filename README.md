@@ -2,4 +2,4 @@
 Weather app with flutter
 
 # App tour
-![](https://github.com/Ziad-Hegazy/Weather-App/App_tour.gif)
+![](https://github.com/Ziad-Hegazy/Weather-App/blob/main/App_tour.gif)
